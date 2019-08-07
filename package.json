@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://gituser@vps.ubiquityservers.com:33233/home/gituser/repos/moncade/query-builder.git"
+    "url": "https://github.com/terary/monqade-query-builder.git"
   },
   "keywords": [
     "Mongoose",
